@@ -1750,7 +1750,7 @@ if (reversed == null) { reversed = false; }
 		*/
 		
 		
-		this.nextbtn.addEventListener("click", fl_ClickToGoToAndStopAtFrame_25.bind(this));
+		this.nextbtn1.addEventListener("click", fl_ClickToGoToAndStopAtFrame_25.bind(this));
 		
 		function fl_ClickToGoToAndStopAtFrame_25()
 		{
@@ -1775,7 +1775,7 @@ if (reversed == null) { reversed = false; }
 		*/
 		
 		
-		this.nextbtn.addEventListener("click", fl_ClickToGoToAndStopAtFrame_26.bind(this));
+		this.nextbtn1.addEventListener("click", fl_ClickToGoToAndStopAtFrame_26.bind(this));
 		
 		function fl_ClickToGoToAndStopAtFrame_26()
 		{
@@ -1800,7 +1800,7 @@ if (reversed == null) { reversed = false; }
 		*/
 		
 		
-		this.nextbtn.addEventListener("click", fl_ClickToGoToAndStopAtFrame_27.bind(this));
+		this.nextbtn1.addEventListener("click", fl_ClickToGoToAndStopAtFrame_27.bind(this));
 		
 		function fl_ClickToGoToAndStopAtFrame_27()
 		{
@@ -1825,7 +1825,7 @@ if (reversed == null) { reversed = false; }
 		*/
 		
 		
-		this.nextbtn.addEventListener("click", fl_ClickToGoToAndStopAtFrame_28.bind(this));
+		this.nextbtn1.addEventListener("click", fl_ClickToGoToAndStopAtFrame_28.bind(this));
 		
 		function fl_ClickToGoToAndStopAtFrame_28()
 		{
@@ -1850,7 +1850,7 @@ if (reversed == null) { reversed = false; }
 		*/
 		
 		
-		this.nextbtn.addEventListener("click", fl_ClickToGoToAndStopAtFrame_29.bind(this));
+		this.nextbtn1.addEventListener("click", fl_ClickToGoToAndStopAtFrame_29.bind(this));
 		
 		function fl_ClickToGoToAndStopAtFrame_29()
 		{
@@ -1875,7 +1875,7 @@ if (reversed == null) { reversed = false; }
 		*/
 		
 		
-		this.nextbtn.addEventListener("click", fl_ClickToGoToAndStopAtFrame_30.bind(this));
+		this.nextbtn1.addEventListener("click", fl_ClickToGoToAndStopAtFrame_30.bind(this));
 		
 		function fl_ClickToGoToAndStopAtFrame_30()
 		{
@@ -1900,7 +1900,7 @@ if (reversed == null) { reversed = false; }
 		*/
 		
 		
-		this.nextbtn.addEventListener("click", fl_ClickToGoToAndStopAtFrame_31.bind(this));
+		this.nextbtn1.addEventListener("click", fl_ClickToGoToAndStopAtFrame_31.bind(this));
 		
 		function fl_ClickToGoToAndStopAtFrame_31()
 		{
@@ -1925,7 +1925,7 @@ if (reversed == null) { reversed = false; }
 		*/
 		
 		
-		this.nextbtn.addEventListener("click", fl_ClickToGoToAndStopAtFrame_32.bind(this));
+		this.nextbtn1.addEventListener("click", fl_ClickToGoToAndStopAtFrame_32.bind(this));
 		
 		function fl_ClickToGoToAndStopAtFrame_32()
 		{
@@ -2011,7 +2011,7 @@ if (reversed == null) { reversed = false; }
 		*/
 		
 		
-		this.nextbtn.addEventListener("click", fl_ClickToGoToAndStopAtFrame_34.bind(this));
+		this.nextbtn1.addEventListener("click", fl_ClickToGoToAndStopAtFrame_34.bind(this));
 		
 		function fl_ClickToGoToAndStopAtFrame_34()
 		{
@@ -2036,7 +2036,7 @@ if (reversed == null) { reversed = false; }
 		*/
 		
 		
-		this.nextbtn.addEventListener("click", fl_ClickToGoToAndStopAtFrame_35.bind(this));
+		this.nextbtn1.addEventListener("click", fl_ClickToGoToAndStopAtFrame_35.bind(this));
 		
 		function fl_ClickToGoToAndStopAtFrame_35()
 		{
@@ -2061,7 +2061,7 @@ if (reversed == null) { reversed = false; }
 		*/
 		
 		
-		this.nextbtn.addEventListener("click", fl_ClickToGoToAndStopAtFrame_36.bind(this));
+		this.nextbtn1.addEventListener("click", fl_ClickToGoToAndStopAtFrame_36.bind(this));
 		
 		function fl_ClickToGoToAndStopAtFrame_36()
 		{
@@ -2086,7 +2086,7 @@ if (reversed == null) { reversed = false; }
 		*/
 		
 		
-		this.nextbtn.addEventListener("click", fl_ClickToGoToAndStopAtFrame_37.bind(this));
+		this.nextbtn1.addEventListener("click", fl_ClickToGoToAndStopAtFrame_37.bind(this));
 		
 		function fl_ClickToGoToAndStopAtFrame_37()
 		{
@@ -2111,7 +2111,7 @@ if (reversed == null) { reversed = false; }
 		*/
 		
 		
-		this.nextbtn.addEventListener("click", fl_ClickToGoToAndStopAtFrame_38.bind(this));
+		this.nextbtn1.addEventListener("click", fl_ClickToGoToAndStopAtFrame_38.bind(this));
 		
 		function fl_ClickToGoToAndStopAtFrame_38()
 		{
@@ -2136,7 +2136,7 @@ if (reversed == null) { reversed = false; }
 		*/
 		
 		
-		this.nextbtn.addEventListener("click", fl_ClickToGoToAndStopAtFrame_39.bind(this));
+		this.nextbtn1.addEventListener("click", fl_ClickToGoToAndStopAtFrame_39.bind(this));
 		
 		function fl_ClickToGoToAndStopAtFrame_39()
 		{
@@ -2186,7 +2186,7 @@ if (reversed == null) { reversed = false; }
 		*/
 		
 		
-		this.nextbtn.addEventListener("click", fl_ClickToGoToAndStopAtFrame_41.bind(this));
+		this.nextbtn2.addEventListener("click", fl_ClickToGoToAndStopAtFrame_41.bind(this));
 		
 		function fl_ClickToGoToAndStopAtFrame_41()
 		{
@@ -2211,7 +2211,7 @@ if (reversed == null) { reversed = false; }
 		*/
 		
 		
-		this.nextbtn.addEventListener("click", fl_ClickToGoToAndStopAtFrame_42.bind(this));
+		this.nextbtn2.addEventListener("click", fl_ClickToGoToAndStopAtFrame_42.bind(this));
 		
 		function fl_ClickToGoToAndStopAtFrame_42()
 		{
@@ -2236,7 +2236,7 @@ if (reversed == null) { reversed = false; }
 		*/
 		
 		
-		this.nextbtn.addEventListener("click", fl_ClickToGoToAndStopAtFrame_43bind(this));
+		this.nextbtn2.addEventListener("click", fl_ClickToGoToAndStopAtFrame_43.bind(this));
 		
 		function fl_ClickToGoToAndStopAtFrame_43()
 		{
@@ -2261,7 +2261,7 @@ if (reversed == null) { reversed = false; }
 		*/
 		
 		
-		this.nextbtn.addEventListener("click", fl_ClickToGoToAndStopAtFrame_44.bind(this));
+		this.nextbtn2.addEventListener("click", fl_ClickToGoToAndStopAtFrame_44.bind(this));
 		
 		function fl_ClickToGoToAndStopAtFrame_44()
 		{
@@ -2286,7 +2286,7 @@ if (reversed == null) { reversed = false; }
 		*/
 		
 		
-		this.nextbtn.addEventListener("click", fl_ClickToGoToAndStopAtFrame_45.bind(this));
+		this.nextbtn2.addEventListener("click", fl_ClickToGoToAndStopAtFrame_45.bind(this));
 		
 		function fl_ClickToGoToAndStopAtFrame_45()
 		{
@@ -2311,7 +2311,7 @@ if (reversed == null) { reversed = false; }
 		*/
 		
 		
-		this.nextbtn.addEventListener("click", fl_ClickToGoToAndStopAtFrame_46.bind(this));
+		this.nextbtn2.addEventListener("click", fl_ClickToGoToAndStopAtFrame_46.bind(this));
 		
 		function fl_ClickToGoToAndStopAtFrame_46()
 		{
@@ -2336,7 +2336,7 @@ if (reversed == null) { reversed = false; }
 		*/
 		
 		
-		this.nextbtn.addEventListener("click", fl_ClickToGoToAndStopAtFrame_47.bind(this));
+		this.nextbtn2.addEventListener("click", fl_ClickToGoToAndStopAtFrame_47.bind(this));
 		
 		function fl_ClickToGoToAndStopAtFrame_47()
 		{
@@ -2361,7 +2361,7 @@ if (reversed == null) { reversed = false; }
 		*/
 		
 		
-		this.nextbtn.addEventListener("click", fl_ClickToGoToAndStopAtFrame_48.bind(this));
+		this.nextbtn2.addEventListener("click", fl_ClickToGoToAndStopAtFrame_48.bind(this));
 		
 		function fl_ClickToGoToAndStopAtFrame_48()
 		{
@@ -2386,7 +2386,7 @@ if (reversed == null) { reversed = false; }
 		*/
 		
 		
-		this.nextbtn.addEventListener("click", fl_ClickToGoToAndStopAtFrame_49.bind(this));
+		this.nextbtn2.addEventListener("click", fl_ClickToGoToAndStopAtFrame_49.bind(this));
 		
 		function fl_ClickToGoToAndStopAtFrame_49()
 		{
@@ -2411,7 +2411,7 @@ if (reversed == null) { reversed = false; }
 		*/
 		
 		
-		this.nextbtn.addEventListener("click", fl_ClickToGoToAndStopAtFrame_50.bind(this));
+		this.nextbtn2.addEventListener("click", fl_ClickToGoToAndStopAtFrame_50.bind(this));
 		
 		function fl_ClickToGoToAndStopAtFrame_50()
 		{
@@ -2436,7 +2436,7 @@ if (reversed == null) { reversed = false; }
 		*/
 		
 		
-		this.nextbtn.addEventListener("click", fl_ClickToGoToAndStopAtFrame_51.bind(this));
+		this.nextbtn2.addEventListener("click", fl_ClickToGoToAndStopAtFrame_51.bind(this));
 		
 		function fl_ClickToGoToAndStopAtFrame_51()
 		{
@@ -2522,7 +2522,7 @@ if (reversed == null) { reversed = false; }
 		*/
 		
 		
-		this.nextbtn.addEventListener("click", fl_ClickToGoToAndStopAtFrame_53.bind(this));
+		this.nextbtn2.addEventListener("click", fl_ClickToGoToAndStopAtFrame_53.bind(this));
 		
 		function fl_ClickToGoToAndStopAtFrame_53()
 		{
@@ -2547,7 +2547,7 @@ if (reversed == null) { reversed = false; }
 		*/
 		
 		
-		this.nextbtn.addEventListener("click", fl_ClickToGoToAndStopAtFrame_54.bind(this));
+		this.nextbtn2.addEventListener("click", fl_ClickToGoToAndStopAtFrame_54.bind(this));
 		
 		function fl_ClickToGoToAndStopAtFrame_54()
 		{
@@ -2572,7 +2572,7 @@ if (reversed == null) { reversed = false; }
 		*/
 		
 		
-		this.nextbtn.addEventListener("click", fl_ClickToGoToAndStopAtFrame_55.bind(this));
+		this.nextbtn2.addEventListener("click", fl_ClickToGoToAndStopAtFrame_55.bind(this));
 		
 		function fl_ClickToGoToAndStopAtFrame_55()
 		{
@@ -2597,7 +2597,7 @@ if (reversed == null) { reversed = false; }
 		*/
 		
 		
-		this.nextbtn.addEventListener("click", fl_ClickToGoToAndStopAtFrame_56.bind(this));
+		this.nextbtn2.addEventListener("click", fl_ClickToGoToAndStopAtFrame_56.bind(this));
 		
 		function fl_ClickToGoToAndStopAtFrame_56()
 		{
@@ -2622,7 +2622,7 @@ if (reversed == null) { reversed = false; }
 		*/
 		
 		
-		this.nextbtn.addEventListener("click", fl_ClickToGoToAndStopAtFrame_57.bind(this));
+		this.nextbtn2.addEventListener("click", fl_ClickToGoToAndStopAtFrame_57.bind(this));
 		
 		function fl_ClickToGoToAndStopAtFrame_57()
 		{
@@ -2647,7 +2647,7 @@ if (reversed == null) { reversed = false; }
 		*/
 		
 		
-		this.nextbtn.addEventListener("click", fl_ClickToGoToAndStopAtFrame_58.bind(this));
+		this.nextbtn2.addEventListener("click", fl_ClickToGoToAndStopAtFrame_58.bind(this));
 		
 		function fl_ClickToGoToAndStopAtFrame_58()
 		{
@@ -2735,7 +2735,6 @@ if (reversed == null) { reversed = false; }
 	this.nextbtn = new lib.next();
 	this.nextbtn.name = "nextbtn";
 	this.nextbtn.setTransform(1210.9,654.15,1,1,0,0,0,0.9,1.2);
-	this.nextbtn._off = true;
 	new cjs.ButtonHelper(this.nextbtn, 0, 1, 1);
 
 	this.instance = new lib._2();
@@ -2821,6 +2820,11 @@ if (reversed == null) { reversed = false; }
 	this.playscene2btn.setTransform(640,560);
 	new cjs.ButtonHelper(this.playscene2btn, 0, 1, 1);
 
+	this.nextbtn1 = new lib.next();
+	this.nextbtn1.name = "nextbtn1";
+	this.nextbtn1.setTransform(1210,653.9);
+	new cjs.ButtonHelper(this.nextbtn1, 0, 1, 1);
+
 	this.instance_16 = new lib._19();
 	this.instance_16.setTransform(200,480);
 
@@ -2873,6 +2877,11 @@ if (reversed == null) { reversed = false; }
 	this.playscene3btn.name = "playscene3btn";
 	this.playscene3btn.setTransform(640,554.85);
 	new cjs.ButtonHelper(this.playscene3btn, 0, 1, 1);
+
+	this.nextbtn2 = new lib.next();
+	this.nextbtn2.name = "nextbtn2";
+	this.nextbtn2.setTransform(1210,652.9);
+	new cjs.ButtonHelper(this.nextbtn2, 0, 1, 1);
 
 	this.instance_27 = new lib._31();
 	this.instance_27.setTransform(200,479);
@@ -3001,8 +3010,7 @@ if (reversed == null) { reversed = false; }
 	this.shape_15.graphics.f("#9A8ABB").s().p("AjYD5IBYnwIDSAAQBNAAAhAkQAZAbAAArQAAAPgDAQIgOBNQgKA4gyAlQgzAlhIAAIhSAAIgaCYgAgugJIA9AAQA4AAAJgyIAFgdQABgGAAgKQAAgLgKgMQgKgMgcAAIg9AAg");
 	this.shape_15.setTransform(348.575,208.6);
 
-	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.startbtn},{t:this.apkbtn},{t:this.aboutbtn}]}).to({state:[{t:this.backsrtbtn}]},1).to({state:[{t:this.playscene1btn}]},1).to({state:[{t:this.instance},{t:this.nextbtn}]},1).to({state:[{t:this.instance_1},{t:this.nextbtn}]},1).to({state:[{t:this.instance_2},{t:this.nextbtn}]},1).to({state:[{t:this.instance_3},{t:this.nextbtn}]},1).to({state:[{t:this.instance_4},{t:this.nextbtn}]},1).to({state:[{t:this.instance_5},{t:this.nextbtn}]},1).to({state:[{t:this.instance_6},{t:this.nextbtn}]},1).to({state:[{t:this.instance_7},{t:this.nextbtn}]},1).to({state:[{t:this.instance_8},{t:this.nextbtn}]},1).to({state:[{t:this.instance_9},{t:this.nextbtn}]},1).to({state:[{t:this.instance_10},{t:this.nextbtn}]},1).to({state:[{t:this.instance_11},{t:this.nextbtn}]},1).to({state:[{t:this.instance_12},{t:this.nextbtn}]},1).to({state:[{t:this.c1btn},{t:this.c2btn},{t:this.c3btn}]},1).to({state:[{t:this.instance_13},{t:this.lvl1}]},1).to({state:[{t:this.instance_14},{t:this.lvl2}]},1).to({state:[{t:this.instance_15},{t:this.lvl3}]},1).to({state:[{t:this.nextbtn}]},1).to({state:[{t:this.nextbtn}]},1).to({state:[{t:this.nextbtn}]},1).to({state:[{t:this.playscene2btn}]},1).to({state:[{t:this.instance_16},{t:this.nextbtn}]},1).to({state:[{t:this.instance_17},{t:this.nextbtn}]},1).to({state:[{t:this.instance_18},{t:this.nextbtn}]},1).to({state:[{t:this.instance_19},{t:this.nextbtn}]},1).to({state:[{t:this.instance_20},{t:this.nextbtn}]},1).to({state:[{t:this.instance_21},{t:this.nextbtn}]},1).to({state:[{t:this.instance_22},{t:this.nextbtn}]},1).to({state:[{t:this.instance_23},{t:this.nextbtn}]},1).to({state:[{t:this.c21btn},{t:this.c22btn},{t:this.c23btn}]},1).to({state:[{t:this.instance_24},{t:this.nextbtn}]},1).to({state:[{t:this.instance_25},{t:this.nextbtn}]},1).to({state:[{t:this.instance_26},{t:this.nextbtn}]},1).to({state:[{t:this.nextbtn}]},1).to({state:[{t:this.nextbtn}]},1).to({state:[{t:this.nextbtn}]},1).to({state:[{t:this.playscene3btn}]},1).to({state:[{t:this.instance_27},{t:this.nextbtn}]},1).to({state:[{t:this.instance_28},{t:this.nextbtn}]},1).to({state:[{t:this.instance_29},{t:this.nextbtn}]},1).to({state:[{t:this.instance_30},{t:this.nextbtn}]},1).to({state:[{t:this.instance_31},{t:this.nextbtn}]},1).to({state:[{t:this.instance_32},{t:this.nextbtn}]},1).to({state:[{t:this.instance_33},{t:this.nextbtn}]},1).to({state:[{t:this.instance_34},{t:this.nextbtn}]},1).to({state:[{t:this.instance_35},{t:this.nextbtn}]},1).to({state:[{t:this.instance_36},{t:this.nextbtn}]},1).to({state:[{t:this.instance_37},{t:this.nextbtn}]},1).to({state:[{t:this.c31btn},{t:this.c32btn},{t:this.c33btn}]},1).to({state:[{t:this.instance_38},{t:this.nextbtn}]},1).to({state:[{t:this.instance_39},{t:this.nextbtn}]},1).to({state:[{t:this.instance_40},{t:this.nextbtn}]},1).to({state:[{t:this.nextbtn}]},1).to({state:[{t:this.nextbtn}]},1).to({state:[{t:this.nextbtn}]},1).to({state:[{t:this.shape_15},{t:this.shape_14},{t:this.shape_13},{t:this.shape_12},{t:this.shape_11},{t:this.shape_10},{t:this.shape_9},{t:this.shape_8},{t:this.shape_7},{t:this.shape_6},{t:this.shape_5},{t:this.shape_4},{t:this.shape_3},{t:this.shape_2},{t:this.shape_1},{t:this.surveybtn},{t:this.menubtn}]},1).wait(1));
-	this.timeline.addTween(cjs.Tween.get(this.nextbtn).wait(3).to({_off:false},0).wait(1).to({regX:0,regY:0,x:1210,y:652.9},0).wait(11).to({_off:true},1).wait(4).to({_off:false,y:70},0).wait(2).to({_off:true},1).wait(1).to({_off:false,y:653.9},0).wait(1).to({y:652.9},0).wait(6).to({_off:true},1).wait(1).to({_off:false},0).wait(3).to({y:70},0).wait(2).to({_off:true},1).wait(1).to({_off:false,y:652.9},0).wait(3).to({y:654.9},0).wait(1).to({y:652.9},0).wait(1).to({y:653.9},0).wait(1).to({y:652.9},0).wait(1).to({y:653.9},0).wait(1).to({y:652.9},0).wait(2).to({_off:true},1).wait(1).to({_off:false},0).wait(3).to({y:70},0).wait(2).to({_off:true},1).wait(1));
+	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.startbtn},{t:this.apkbtn},{t:this.aboutbtn}]}).to({state:[{t:this.backsrtbtn}]},1).to({state:[{t:this.playscene1btn}]},1).to({state:[{t:this.instance},{t:this.nextbtn,p:{regX:0.9,regY:1.2,x:1210.9,y:654.15}}]},1).to({state:[{t:this.instance_1},{t:this.nextbtn,p:{regX:0,regY:0,x:1210,y:652.9}}]},1).to({state:[{t:this.instance_2},{t:this.nextbtn,p:{regX:0,regY:0,x:1210,y:652.9}}]},1).to({state:[{t:this.instance_3},{t:this.nextbtn,p:{regX:0,regY:0,x:1210,y:652.9}}]},1).to({state:[{t:this.instance_4},{t:this.nextbtn,p:{regX:0,regY:0,x:1210,y:652.9}}]},1).to({state:[{t:this.instance_5},{t:this.nextbtn,p:{regX:0,regY:0,x:1210,y:652.9}}]},1).to({state:[{t:this.instance_6},{t:this.nextbtn,p:{regX:0,regY:0,x:1210,y:652.9}}]},1).to({state:[{t:this.instance_7},{t:this.nextbtn,p:{regX:0,regY:0,x:1210,y:652.9}}]},1).to({state:[{t:this.instance_8},{t:this.nextbtn,p:{regX:0,regY:0,x:1210,y:652.9}}]},1).to({state:[{t:this.instance_9},{t:this.nextbtn,p:{regX:0,regY:0,x:1210,y:652.9}}]},1).to({state:[{t:this.instance_10},{t:this.nextbtn,p:{regX:0,regY:0,x:1210,y:652.9}}]},1).to({state:[{t:this.instance_11},{t:this.nextbtn,p:{regX:0,regY:0,x:1210,y:652.9}}]},1).to({state:[{t:this.instance_12},{t:this.nextbtn,p:{regX:0,regY:0,x:1210,y:652.9}}]},1).to({state:[{t:this.c1btn},{t:this.c2btn},{t:this.c3btn}]},1).to({state:[{t:this.instance_13},{t:this.lvl1}]},1).to({state:[{t:this.instance_14},{t:this.lvl2}]},1).to({state:[{t:this.instance_15},{t:this.lvl3}]},1).to({state:[{t:this.nextbtn,p:{regX:0,regY:0,x:1210,y:70}}]},1).to({state:[{t:this.nextbtn,p:{regX:0,regY:0,x:1210,y:70}}]},1).to({state:[{t:this.nextbtn,p:{regX:0,regY:0,x:1210,y:70}}]},1).to({state:[{t:this.playscene2btn}]},1).to({state:[{t:this.instance_16},{t:this.nextbtn1,p:{y:653.9}}]},1).to({state:[{t:this.instance_17},{t:this.nextbtn1,p:{y:652.9}}]},1).to({state:[{t:this.instance_18},{t:this.nextbtn1,p:{y:652.9}}]},1).to({state:[{t:this.instance_19},{t:this.nextbtn1,p:{y:652.9}}]},1).to({state:[{t:this.instance_20},{t:this.nextbtn1,p:{y:652.9}}]},1).to({state:[{t:this.instance_21},{t:this.nextbtn1,p:{y:652.9}}]},1).to({state:[{t:this.instance_22},{t:this.nextbtn1,p:{y:652.9}}]},1).to({state:[{t:this.instance_23},{t:this.nextbtn1,p:{y:652.9}}]},1).to({state:[{t:this.c21btn},{t:this.c22btn},{t:this.c23btn}]},1).to({state:[{t:this.instance_24},{t:this.nextbtn1,p:{y:652.9}}]},1).to({state:[{t:this.instance_25},{t:this.nextbtn1,p:{y:652.9}}]},1).to({state:[{t:this.instance_26},{t:this.nextbtn1,p:{y:652.9}}]},1).to({state:[{t:this.nextbtn1,p:{y:70}}]},1).to({state:[{t:this.nextbtn1,p:{y:70}}]},1).to({state:[{t:this.nextbtn1,p:{y:70}}]},1).to({state:[{t:this.playscene3btn}]},1).to({state:[{t:this.instance_27},{t:this.nextbtn2,p:{y:652.9}}]},1).to({state:[{t:this.instance_28},{t:this.nextbtn2,p:{y:652.9}}]},1).to({state:[{t:this.instance_29},{t:this.nextbtn2,p:{y:652.9}}]},1).to({state:[{t:this.instance_30},{t:this.nextbtn2,p:{y:654.9}}]},1).to({state:[{t:this.instance_31},{t:this.nextbtn2,p:{y:652.9}}]},1).to({state:[{t:this.instance_32},{t:this.nextbtn2,p:{y:653.9}}]},1).to({state:[{t:this.instance_33},{t:this.nextbtn2,p:{y:652.9}}]},1).to({state:[{t:this.instance_34},{t:this.nextbtn2,p:{y:653.9}}]},1).to({state:[{t:this.instance_35},{t:this.nextbtn2,p:{y:652.9}}]},1).to({state:[{t:this.instance_36},{t:this.nextbtn2,p:{y:652.9}}]},1).to({state:[{t:this.instance_37},{t:this.nextbtn2,p:{y:652.9}}]},1).to({state:[{t:this.c31btn},{t:this.c32btn},{t:this.c33btn}]},1).to({state:[{t:this.instance_38},{t:this.nextbtn2,p:{y:652.9}}]},1).to({state:[{t:this.instance_39},{t:this.nextbtn2,p:{y:652.9}}]},1).to({state:[{t:this.instance_40},{t:this.nextbtn2,p:{y:652.9}}]},1).to({state:[{t:this.nextbtn2,p:{y:70}}]},1).to({state:[{t:this.nextbtn2,p:{y:70}}]},1).to({state:[{t:this.nextbtn2,p:{y:70}}]},1).to({state:[{t:this.shape_15},{t:this.shape_14},{t:this.shape_13},{t:this.shape_12},{t:this.shape_11},{t:this.shape_10},{t:this.shape_9},{t:this.shape_8},{t:this.shape_7},{t:this.shape_6},{t:this.shape_5},{t:this.shape_4},{t:this.shape_3},{t:this.shape_2},{t:this.shape_1},{t:this.surveybtn},{t:this.menubtn}]},1).wait(1));
 
 	// Layer_1
 	this.instance_41 = new lib.titlescreen();
@@ -3094,80 +3102,80 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/_1.png?1688707318924", id:"_1"},
-		{src:"images/_10.png?1688707318924", id:"_10"},
-		{src:"images/_11.png?1688707318924", id:"_11"},
-		{src:"images/_12.png?1688707318924", id:"_12"},
-		{src:"images/_13.png?1688707318924", id:"_13"},
-		{src:"images/_14.png?1688707318924", id:"_14"},
-		{src:"images/_15.png?1688707318924", id:"_15"},
-		{src:"images/_16.png?1688707318924", id:"_16"},
-		{src:"images/_17.png?1688707318924", id:"_17"},
-		{src:"images/_19.png?1688707318924", id:"_19"},
-		{src:"images/_2.png?1688707318924", id:"_2"},
-		{src:"images/_20.png?1688707318924", id:"_20"},
-		{src:"images/_21.png?1688707318924", id:"_21"},
-		{src:"images/_22.png?1688707318924", id:"_22"},
-		{src:"images/_23.png?1688707318924", id:"_23"},
-		{src:"images/_24.png?1688707318924", id:"_24"},
-		{src:"images/_25.png?1688707318924", id:"_25"},
-		{src:"images/_26.png?1688707318924", id:"_26"},
-		{src:"images/_27.png?1688707318924", id:"_27"},
-		{src:"images/_28.png?1688707318924", id:"_28"},
-		{src:"images/_29.png?1688707318924", id:"_29"},
-		{src:"images/_3.png?1688707318924", id:"_3"},
-		{src:"images/_31.png?1688707318924", id:"_31"},
-		{src:"images/_32.png?1688707318924", id:"_32"},
-		{src:"images/_33.png?1688707318924", id:"_33"},
-		{src:"images/_34.png?1688707318924", id:"_34"},
-		{src:"images/_35.png?1688707318924", id:"_35"},
-		{src:"images/_36.png?1688707318924", id:"_36"},
-		{src:"images/_37.png?1688707318924", id:"_37"},
-		{src:"images/_38.png?1688707318924", id:"_38"},
-		{src:"images/_39.png?1688707318924", id:"_39"},
-		{src:"images/_4.png?1688707318924", id:"_4"},
-		{src:"images/_40.png?1688707318924", id:"_40"},
-		{src:"images/_41.png?1688707318924", id:"_41"},
-		{src:"images/_42.png?1688707318924", id:"_42"},
-		{src:"images/_43.png?1688707318924", id:"_43"},
-		{src:"images/_44.png?1688707318924", id:"_44"},
-		{src:"images/_5.png?1688707318924", id:"_5"},
-		{src:"images/_6.png?1688707318924", id:"_6"},
-		{src:"images/_7.png?1688707318924", id:"_7"},
-		{src:"images/_8.png?1688707318924", id:"_8"},
-		{src:"images/_9.png?1688707318924", id:"_9"},
-		{src:"images/about.png?1688707318924", id:"about"},
-		{src:"images/c31.png?1688707318924", id:"c31"},
-		{src:"images/c32.png?1688707318924", id:"c32"},
-		{src:"images/c33.png?1688707318924", id:"c33"},
-		{src:"images/cc.png?1688707318924", id:"cc"},
-		{src:"images/ccc.png?1688707318924", id:"ccc"},
-		{src:"images/choices1.png?1688707318924", id:"choices1"},
-		{src:"images/choices2.png?1688707318924", id:"choices2"},
-		{src:"images/choices.png?1688707318924", id:"choices"},
-		{src:"images/conc.png?1688707318924", id:"conc"},
-		{src:"images/idol.png?1688707318924", id:"idol"},
-		{src:"images/lvl1.png?1688707318924", id:"lvl1"},
-		{src:"images/lvl2.png?1688707318924", id:"lvl2"},
-		{src:"images/lvl3.png?1688707318924", id:"lvl3"},
-		{src:"images/notif.png?1688707318924", id:"notif"},
-		{src:"images/scene1.png?1688707318924", id:"scene1"},
-		{src:"images/scene2.png?1688707318924", id:"scene2"},
-		{src:"images/scene3.png?1688707318924", id:"scene3"},
-		{src:"images/stanculture1.png?1688707318924", id:"stanculture1"},
-		{src:"images/stanculture10.png?1688707318924", id:"stanculture10"},
-		{src:"images/stanculture13.png?1688707318924", id:"stanculture13"},
-		{src:"images/stanculture14.png?1688707318924", id:"stanculture14"},
-		{src:"images/stanculture2.png?1688707318924", id:"stanculture2"},
-		{src:"images/stanculture3.png?1688707318924", id:"stanculture3"},
-		{src:"images/stanculture4.png?1688707318924", id:"stanculture4"},
-		{src:"images/stanculture5.png?1688707318924", id:"stanculture5"},
-		{src:"images/stanculture6.png?1688707318924", id:"stanculture6"},
-		{src:"images/stanculture7.png?1688707318924", id:"stanculture7"},
-		{src:"images/stanculture8.png?1688707318924", id:"stanculture8"},
-		{src:"images/stanculture9.png?1688707318924", id:"stanculture9"},
-		{src:"images/stanculture.png?1688707318924", id:"stanculture"},
-		{src:"images/titlescreen.png?1688707318924", id:"titlescreen"}
+		{src:"images/_1.png", id:"_1"},
+		{src:"images/_10.png", id:"_10"},
+		{src:"images/_11.png", id:"_11"},
+		{src:"images/_12.png", id:"_12"},
+		{src:"images/_13.png", id:"_13"},
+		{src:"images/_14.png", id:"_14"},
+		{src:"images/_15.png", id:"_15"},
+		{src:"images/_16.png", id:"_16"},
+		{src:"images/_17.png", id:"_17"},
+		{src:"images/_19.png", id:"_19"},
+		{src:"images/_2.png", id:"_2"},
+		{src:"images/_20.png", id:"_20"},
+		{src:"images/_21.png", id:"_21"},
+		{src:"images/_22.png", id:"_22"},
+		{src:"images/_23.png", id:"_23"},
+		{src:"images/_24.png", id:"_24"},
+		{src:"images/_25.png", id:"_25"},
+		{src:"images/_26.png", id:"_26"},
+		{src:"images/_27.png", id:"_27"},
+		{src:"images/_28.png", id:"_28"},
+		{src:"images/_29.png", id:"_29"},
+		{src:"images/_3.png", id:"_3"},
+		{src:"images/_31.png", id:"_31"},
+		{src:"images/_32.png", id:"_32"},
+		{src:"images/_33.png", id:"_33"},
+		{src:"images/_34.png", id:"_34"},
+		{src:"images/_35.png", id:"_35"},
+		{src:"images/_36.png", id:"_36"},
+		{src:"images/_37.png", id:"_37"},
+		{src:"images/_38.png", id:"_38"},
+		{src:"images/_39.png", id:"_39"},
+		{src:"images/_4.png", id:"_4"},
+		{src:"images/_40.png", id:"_40"},
+		{src:"images/_41.png", id:"_41"},
+		{src:"images/_42.png", id:"_42"},
+		{src:"images/_43.png", id:"_43"},
+		{src:"images/_44.png", id:"_44"},
+		{src:"images/_5.png", id:"_5"},
+		{src:"images/_6.png", id:"_6"},
+		{src:"images/_7.png", id:"_7"},
+		{src:"images/_8.png", id:"_8"},
+		{src:"images/_9.png", id:"_9"},
+		{src:"images/about.png", id:"about"},
+		{src:"images/c31.png", id:"c31"},
+		{src:"images/c32.png", id:"c32"},
+		{src:"images/c33.png", id:"c33"},
+		{src:"images/cc.png", id:"cc"},
+		{src:"images/ccc.png", id:"ccc"},
+		{src:"images/choices1.png", id:"choices1"},
+		{src:"images/choices2.png", id:"choices2"},
+		{src:"images/choices.png", id:"choices"},
+		{src:"images/conc.png", id:"conc"},
+		{src:"images/idol.png", id:"idol"},
+		{src:"images/lvl1.png", id:"lvl1"},
+		{src:"images/lvl2.png", id:"lvl2"},
+		{src:"images/lvl3.png", id:"lvl3"},
+		{src:"images/notif.png", id:"notif"},
+		{src:"images/scene1.png", id:"scene1"},
+		{src:"images/scene2.png", id:"scene2"},
+		{src:"images/scene3.png", id:"scene3"},
+		{src:"images/stanculture1.png", id:"stanculture1"},
+		{src:"images/stanculture10.png", id:"stanculture10"},
+		{src:"images/stanculture13.png", id:"stanculture13"},
+		{src:"images/stanculture14.png", id:"stanculture14"},
+		{src:"images/stanculture2.png", id:"stanculture2"},
+		{src:"images/stanculture3.png", id:"stanculture3"},
+		{src:"images/stanculture4.png", id:"stanculture4"},
+		{src:"images/stanculture5.png", id:"stanculture5"},
+		{src:"images/stanculture6.png", id:"stanculture6"},
+		{src:"images/stanculture7.png", id:"stanculture7"},
+		{src:"images/stanculture8.png", id:"stanculture8"},
+		{src:"images/stanculture9.png", id:"stanculture9"},
+		{src:"images/stanculture.png", id:"stanculture"},
+		{src:"images/titlescreen.png", id:"titlescreen"}
 	],
 	preloads: []
 };
